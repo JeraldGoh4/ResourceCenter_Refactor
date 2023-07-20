@@ -10,7 +10,7 @@ public class ResourceCentreTest {
 	private Camcorder cc1;
 	private Camcorder cc2;
 	private Chromebook cb1;
-	private Chromebook cb2;.//
+	private Chromebook cb2;//
 	
 	private ArrayList<Camcorder> camcorderList;
 	private ArrayList<Chromebook> chromebookList;
